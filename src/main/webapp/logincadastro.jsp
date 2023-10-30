@@ -21,8 +21,11 @@
 					id="validationServer01" required="">
 			</div>
 			<div class="form">
-				<label for="validationServer03" class="form-label" for="documentos">Modalidade</label>
+				<label for="validationServer03" class="form-label" for="documentos">Endereço</label>
 				<div class="col-md-6 position-relative">
+				<div class="col-md-2">
+							<label for="stateSelect" class="form-label">Estado</label>
+						</div>
 					<div class="row">
 						<div class="col-md-4">
 							<select class="form-select" id="stateSelect" required=""

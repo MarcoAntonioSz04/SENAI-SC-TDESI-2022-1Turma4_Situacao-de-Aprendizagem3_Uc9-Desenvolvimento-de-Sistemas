@@ -5,8 +5,8 @@ import java.sql.DriverManager;
 
 public class ConexaoBanco {
 	private static String banco = "jdbc:mysql://localhost:3306/sa3";
-	private static String usuario = "root";
-	private static String senha = "****";
+	private static String usuario = "senai";
+	private static String senha = "SenaiSC2023";
 	private static Connection conn = null;
 	
 	public static Connection getConnection(){
