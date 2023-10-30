@@ -12,8 +12,11 @@
 <body>
 	<div class="container">
 		<h1>Situação de Aprendizagem 3</h1>
-					<button type="button" class="btn btn-outline-primary" class="d-flex" role="search">
+					<button type="button" class="btn btn-outline-success" class="d-flex" role="search">
 						<a class="nav-link" href="login.jsp"> Login(Entrar)</a>
+					</button>
+					<button type="button" class="btn btn-outline-primary" class="d-flex" role="search">
+						<a class="nav-link" href="logincadastro.jsp"> Cadastrar</a>
 					</button>
 	</div>
 	<script
