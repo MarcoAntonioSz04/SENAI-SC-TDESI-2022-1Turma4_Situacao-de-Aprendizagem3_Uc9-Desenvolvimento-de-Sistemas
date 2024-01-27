@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Pagina Inicial da Situação de Aprendizagem 3</title>
+<title>Pagina Inicial da Situaï¿½ï¿½o de Aprendizagem 3</title>
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
 	rel="stylesheet"
@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Situação de Aprendizagem 3</h1>
+		<h1>SituaÃ§Ã£o de Aprendizagem 3</h1>
 					<button type="button" class="btn btn-outline-success" class="d-flex" role="search">
 						<a class="nav-link" href="login.jsp"> Login(Entrar)</a>
 					</button>
